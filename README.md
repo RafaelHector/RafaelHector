@@ -1,9 +1,9 @@
-### Olá! Eu sou o Rafael Hector 😃
+### Olá! Eu sou o Rafael Hector 😃👋
 🐱‍👤 Software Developer, desejo aprender, desenvolver e ajudar o mundo em que vivemos. 🌎🤝
 
 - 🔭 Trabalhando com: back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games. 🌌
 - 🌱 Atualmente aprendendo sobre Python (Data science & Machine Learning) 🐍...
-- ⚡ Fun fact: Muitas pessoas deram a vida para nos dar a liberdade que temos hoje, usemos a com sabedoria. 📚 ⏳😉👍
+- ⚡ Fun fact: Muitas pessoas deram a vida para nos dar a liberdade e os direitos que temos hoje em dia, usemos o com sabedoria. 📚 ⏳😉👍
 - 🎯 Meta pessoal: Compartilhar ao menos um projeto por dia aqui no GitHub. 🐱‍💻🪐
 
 ![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
