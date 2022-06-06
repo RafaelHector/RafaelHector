@@ -4,7 +4,6 @@
 - 🔭 Trabalhando com: back-end, desenvolvendo softwares de segurança e também almejando o desenvolvimento de games e web. 🌌
 - 🌱 Atualmente aprendendo Python (Data science & Machine Learning) 🐍...
 - ⚡ Fun fact: Muitas pessoas deram a vida para nos dar a liberdade e os direitos que temos hoje em dia, vivamos com sabedoria.📚
-- 🎯 Meta pessoal: Compartilhar ao menos um projeto por dia aqui no GitHub. 🐱‍💻🪐
 
 ![blog](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 [![blog](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/l689gawtrintlaz5n3na3f1gk)
